@@ -1,0 +1,107 @@
+]2;source /Users/magnus/work/opt/MC-Sym-4/mcsym]1;]2;/home/magnus//work/opt/MC-Sym-4/bin/MC-Annotate $@]1;Residue conformations -------------------------------------------
+A1 : U C3p_endo anti
+A2 : A C3p_endo anti
+A3 : U C3p_endo anti
+A4 : A C3p_endo anti
+A6 : C C3p_endo anti
+A7 : A C3p_endo anti
+A8 : U C3p_endo anti
+A9 : A C3p_endo anti
+A13 : U C3p_endo anti
+A14 : U C3p_endo anti
+A15 : U C3p_endo anti
+A16 : U C3p_endo anti
+A17 : G C3p_endo anti
+A18 : A C3p_endo anti
+A19 : C C3p_endo anti
+A27 : G C2p_exo anti
+A28 : U C3p_endo anti
+A29 : C C3p_endo anti
+A30 : A C3p_endo anti
+A31 : U C3p_endo anti
+A32 : A C3p_endo anti
+A33 : A C3p_endo anti
+A42 : C C3p_endo anti
+A43 : G C3p_endo anti
+A44 : G C3p_endo anti
+A45 : A C3p_endo anti
+A46 : A C3p_endo anti
+A47 : U C3p_endo anti
+A48 : A C3p_endo anti
+A56 : U C3p_endo anti
+A57 : A C3p_endo anti
+A58 : U C3p_endo anti
+A59 : U C3p_endo anti
+A60 : C C3p_endo anti
+A61 : U C3p_endo anti
+A62 : G C3p_endo anti
+A65 : U C3p_endo anti
+A66 : A C3p_endo anti
+A67 : U C3p_endo anti
+A68 : G C3p_endo anti
+A69 : U C3p_endo anti
+A70 : A C4p_exo anti
+A71 : U C3p_endo anti
+A72 : A C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+A2-A3 : adjacent_5p upward 
+A3-A4 : adjacent_5p upward 
+A6-A7 : adjacent_5p upward 
+A7-A8 : adjacent_5p upward 
+A15-A16 : adjacent_5p upward 
+A16-A17 : adjacent_5p upward 
+A17-A18 : adjacent_5p upward 
+A18-A19 : adjacent_5p upward 
+A27-A28 : adjacent_5p upward 
+A28-A29 : adjacent_5p upward 
+A29-A30 : adjacent_5p upward 
+A30-A31 : adjacent_5p upward 
+A31-A32 : adjacent_5p upward 
+A32-A33 : adjacent_5p upward 
+A43-A44 : adjacent_5p upward 
+A44-A45 : adjacent_5p upward 
+A45-A46 : adjacent_5p upward 
+A46-A47 : adjacent_5p upward 
+A47-A48 : adjacent_5p upward 
+A56-A57 : adjacent_5p upward 
+A57-A58 : adjacent_5p upward 
+A59-A60 : adjacent_5p upward 
+A60-A61 : adjacent_5p upward 
+A66-A67 : adjacent_5p upward 
+A67-A68 : adjacent_5p upward 
+A68-A69 : adjacent_5p upward 
+A70-A71 : adjacent_5p upward 
+A71-A72 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A2-A72 : outward 
+A4-A70 : outward 
+A7-A68 : outward 
+A9-A66 : outward 
+A17-A30 : outward 
+A43-A62 : outward 
+Number of stackings = 35
+Number of adjacent stackings = 29
+Number of non adjacent stackings = 6
+Base-pairs ------------------------------------------------------
+A1-A72 : U-A Ww/Ww pairing antiparallel cis XX 
+A2-A71 : A-U Ww/Ww pairing antiparallel cis XX 
+A3-A70 : U-A Ww/Ww pairing antiparallel cis XX 
+A6-A68 : C-G Ww/Ww pairing antiparallel cis XIX 
+A7-A67 : A-U Ww/Ww pairing antiparallel cis XX 
+A8-A66 : U-A Ww/Ww pairing antiparallel cis 
+A9-A65 : A-U Ww/Ww pairing antiparallel cis one_hbond 
+A14-A32 : U-A Wh/Wh pairing antiparallel cis one_hbond 
+A14-A33 : U-A Ws/Ww pairing antiparallel cis 
+A15-A32 : U-A Ww/Ww pairing antiparallel cis XX 
+A16-A30 : U-A Ww/Ww pairing antiparallel cis XX 
+A17-A29 : G-C Ww/Ww pairing antiparallel cis XIX 
+A18-A28 : A-U Ww/Ww pairing antiparallel cis XX 
+A19-A27 : C-G Ww/Ww pairing antiparallel cis 
+A42-A62 : C-G Ww/Ws pairing antiparallel cis 128 
+A43-A61 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A44-A60 : G-C Ww/Ww pairing antiparallel cis XIX 
+A45-A59 : A-U Ww/Ww pairing antiparallel cis XX 
+A46-A58 : A-U Ww/Ww pairing antiparallel cis XX 
+A47-A57 : U-A Ww/Ww pairing antiparallel cis XX 
+A48-A56 : A-U Ww/Ww pairing antiparallel cis XX 

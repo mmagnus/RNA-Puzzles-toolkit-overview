@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+source /Users/magnus/work/opt/MC-Sym-4/mcsym
+/home/magnus//work/opt/MC-Sym-4/bin/MC-Annotate $@

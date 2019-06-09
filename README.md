@@ -27,7 +27,6 @@ See you see examples of usages of the Toolkit with Jupyter: [See The RNA-Puzzles
 
 ## Datasets from RNA-Puzzles:
 
-[RNA-Puzzles dataset](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset)
   - [Raw submission](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset/tree/master/raw)
   - [Processed For Assessment](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset/tree/master/normalized)
   - [Normalized submissions](https://github.com/mmagnus/RNA-Puzzles-Normalized-submissions)

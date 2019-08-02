@@ -1,3 +1,0 @@
-cmp/b1.pdb;0
-cmp/b2.pdb;0
-cmp/b3.pdb;0

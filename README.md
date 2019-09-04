@@ -2,7 +2,9 @@
 
 ## Overview of the RNA-Puzzle Toolkit in Jupyter:
 
-See you see examples of usages of the Toolkit with Jupyter: [See The RNA-Puzzles Tookit Overview](https://github.com/mmagnus/RNA-Puzzles-toolkit-overview/blob/master/rna-puzzle-toolkit.ipynb)
+See you see examples of usages of the Toolkit with Jupyter: 
+
+[See The RNA-Puzzles Tookit Overview](https://github.com/mmagnus/RNA-Puzzles-toolkit-overview/blob/master/rna-puzzle-toolkit.ipynb)
 
 ![fig](figures/fig1.png)
 
